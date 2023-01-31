@@ -5,8 +5,8 @@ Backend Developer
 -----------------
 
 * 🌍  I'm based in Türkiye, Antalya
-* 🖥️  See my portfolio at [here](http://mehmetcoskun.dev)
-* ✉️  You can contact me at [bnmehmetcoskun@gmail.com](mailto:bnmehmetcoskun@gmail.com)
+* 🖥️  See my portfolio at [here](http://coskun.dev)
+* ✉️  You can contact me at [mehmet@coskun.dev](mailto:mehmet@coskun.dev)
 * 🚀  I'm currently working on [AILA](http://ailamatch.com)
 * 🧠  I'm learning GoLang
 * ⚡  Learn code!
