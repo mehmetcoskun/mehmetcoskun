@@ -8,7 +8,7 @@ Backend Developer
 * 🖥️  See my portfolio at [here](http://coskun.dev)
 * ✉️  You can contact me at [mehmet@coskun.dev](mailto:mehmet@coskun.dev)
 * 🚀  I'm currently working on [AILA](http://ailamatch.com)
-* 🧠  I'm learning GoLang
+* 🧠  I'm learning ...
 * ⚡  Learn code!
 
 <a href="https://www.twitter.com/bnmehmetcoskun" target="_blank" rel="noreferrer"><img
@@ -49,14 +49,6 @@ src="https://img.shields.io/github/followers/mehmetcoskun?logo=github&style=for-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mehmetcoskun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bnmehmetcoskun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/coskunmehmet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bnmehmetcoskun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mehmetcoskun"><img src="https://github-readme-stats.vercel.app/api?username=mehmetcoskun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mehmetcoskun's GitHub stats" /></a>
-
-<a href="http://www.github.com/mehmetcoskun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcoskun&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Support Me
 
