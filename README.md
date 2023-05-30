@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Developer
 -----------------
 
-* 🌍  I'm based in Türkiye, Antalya
+* 🌍  I'm based in Türkiye, İzmir
 * 🖥️  See my portfolio at [here](http://coskun.dev)
 * ✉️  You can contact me at [mehmet@coskun.dev](mailto:mehmet@coskun.dev)
 * 🚀  I'm currently working on [AILA](http://ailamatch.com)
-* 🧠  I'm learning ...
+<!-- * 🧠  I'm learning ... -->
 * ⚡  Learn code!
 
 <a href="https://www.twitter.com/bnmehmetcoskun" target="_blank" rel="noreferrer"><img
@@ -20,7 +20,6 @@ src="https://img.shields.io/github/followers/mehmetcoskun?logo=github&style=for-
 
 
 <p align="left">
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
