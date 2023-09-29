@@ -7,7 +7,6 @@ Backend Developer
 * 🌍  I'm based in Türkiye, İzmir
 * 🖥️  See my portfolio at [here](http://coskun.dev)
 * ✉️  You can contact me at [mehmet@coskun.dev](mailto:mehmet@coskun.dev)
-* 🚀  I'm currently working on [AILA](http://ailamatch.com)
 <!-- * 🧠  I'm learning ... -->
 * ⚡  Learn code!
 
