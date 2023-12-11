@@ -10,8 +10,8 @@ Backend Developer
 <!-- * 🧠  I'm learning ... -->
 * ⚡  Learn code!
 
-<a href="https://www.twitter.com/bnmehmetcoskun" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/bnmehmetcoskun?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/coskundev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/coskundev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/mehmetcoskun" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mehmetcoskun?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -46,7 +46,7 @@ src="https://img.shields.io/github/followers/mehmetcoskun?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mehmetcoskun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/bnmehmetcoskun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/coskunmehmet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bnmehmetcoskun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/mehmetcoskun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/coskun.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/coskunmehmet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/coskundev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Support Me
 
