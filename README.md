@@ -48,4 +48,4 @@ If you'd like to support my work, feel free to donate via the crypto wallets bel
 
 - **Bitcoin:** `1KscPuuHyHgfAxDzBSF6V18hhyJpuak6jJ`
 - **Ethereum (ERC20):** `0x6AEAD8601ea173AEFDDC28DaC7BAE317A78213aE`
-- **USDT (TRC20):** `TVtK3ygYA363qD8Tdvg1TkzF8YcMSeong8`
+- **Tron (TRC20):** `TVtK3ygYA363qD8Tdvg1TkzF8YcMSeong8`
