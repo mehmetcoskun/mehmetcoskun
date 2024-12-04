@@ -1,17 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mehmet
 ==============================================================================================================================
 
-Backend Developer
+Developer
 -----------------
 
 * 🌍  I'm based in Türkiye, İzmir
 * 🖥️  See my portfolio at [here](http://coskun.dev)
 * ✉️  You can contact me at [mehmet@coskun.dev](mailto:mehmet@coskun.dev)
-<!-- * 🧠  I'm learning ... -->
 * ⚡  Learn code!
 
-<a href="https://www.twitter.com/coskundev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/coskundev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.x.com/coskundev" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/coskundev?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/mehmetcoskun" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mehmetcoskun?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -43,11 +42,10 @@ src="https://img.shields.io/github/followers/mehmetcoskun?logo=github&style=for-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+### Support Me (Crypto Wallets)
 
-### Socials
+If you'd like to support my work, feel free to donate via the crypto wallets below. Your contributions are greatly appreciated! 🙌
 
-<p align="left"> <a href="https://www.github.com/mehmetcoskun" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/coskun.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/coskunmehmet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/coskundev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/mehmetcoskun"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+- **Bitcoin:** `1KscPuuHyHgfAxDzBSF6V18hhyJpuak6jJ`
+- **Ethereum (ERC20):** `0x6AEAD8601ea173AEFDDC28DaC7BAE317A78213aE`
+- **USDT (TRC20):** `TVtK3ygYA363qD8Tdvg1TkzF8YcMSeong8`
