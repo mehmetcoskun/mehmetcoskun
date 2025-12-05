@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer
 -----------------
 
-* 🌍  I'm based in Türkiye, İzmir
+* 🌍  I'm based in Türkiye, Antalya
 * 🖥️  See my portfolio at [here](http://coskun.dev)
 * ✉️  You can contact me at [mehmet@coskun.dev](mailto:mehmet@coskun.dev)
 * ⚡  Learn code!
